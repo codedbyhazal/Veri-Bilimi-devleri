@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e60f6ad-5a19-445c-ab70-11830d1b687d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Veri Bilimi Projeleri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Proje - 1/alisveris_sepeti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Proje - 2/yasa_gore_mesaj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operatörler - 1/odev2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operatörler - 2/odev2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operatörler - 3/odev2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operatörler - 4/odev2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operatörler - 5/odev2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veri Tipleri - 1/odev1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veri Tipleri - 2/odev1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veri Tipleri - 3/odev1.3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="31YpvwWOuaquolD2k0NmkYVKNdN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.alisveris_sepeti.executor": "Run",
+    "Python.odev1.1.executor": "Run",
+    "Python.odev1.2.executor": "Run",
+    "Python.odev1.3.executor": "Run",
+    "Python.odev2.1.executor": "Run",
+    "Python.odev2.2.executor": "Run",
+    "Python.odev2.3.executor": "Run",
+    "Python.odev2.4.executor": "Run",
+    "Python.odev2.5.executor": "Run",
+    "Python.yasa_gore_mesaj.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e60f6ad-5a19-445c-ab70-11830d1b687d" name="Changes" comment="" />
+      <created>1755711094820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755711094820</updated>
+    </task>
+    <servers />
+  </component>
+</project>
